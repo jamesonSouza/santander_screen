@@ -2,6 +2,15 @@
 
 Tela do aplicativo santander com informações simples 
 
+## Screens
+
+![alt text](https://github.com/jamesonSouza/santander_screen/blob/main/telas/draw.png)
+
+![alt text](https://github.com/jamesonSouza/santander_screen/blob/main/telas/inicial.png)
+
+![alt text](https://github.com/jamesonSouza/santander_screen/blob/main/telas/login.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
